@@ -2,7 +2,7 @@
 | #         | Case       | Example     |
 | --------- | ---------- | ----------- |
 | folder    | kebab-case | home-page   |
-| file name | camelCase  | homePage.js |
+| file name | kabab-case  | home-page.js |
 
 | #                  | Case               | Example           |
 | ------------------ | ------------------ | ----------------- |
